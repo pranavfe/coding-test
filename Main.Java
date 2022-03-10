@@ -44,6 +44,12 @@ public class Main {
      ::new));
     }
         
+    
+    /** RESULT 
+    * Input = Hello Hello Hi
+    * Output = 2 Hello  1 Hi
+    
+    */
 
     
 }
